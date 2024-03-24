@@ -1,2 +1,2 @@
-# AdministracionCondominio
-PROYECTO REALIZADO POR ESTUDIANTES DE 5TO SEMESTRE EN LA ESCUELA POLITECNICA NACIONAL
+# ProyectoCondominio
+Repositorio para el proyecto de sistema de gestión y manejo de condominios
